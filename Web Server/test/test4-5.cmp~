@@ -1,0 +1,11 @@
+--- ./test/test4-5.out.res	2017-04-17 23:37:37.117469887 -0400
++++ ./test/test4-5.org.res	2017-04-17 23:37:37.117469887 -0400
+@@ -1,6 +1,6 @@
+ HTTP/1.0 404 Not Found
+ Connection: close
+-Content-Length: 38
++Content-Length: 39
+ Content-Type: text/plain
+ 
+-/none/../index.htmlcould not be found
++/none/../index.html could not be found
